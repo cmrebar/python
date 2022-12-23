@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    height: fit-content;
+    width: fit-content;
+}
+
+
+
